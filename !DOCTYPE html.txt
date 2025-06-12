@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Viviana Belen</title>
+  <style>
+    body {
+      background-color: #f5f5f5;
+      font-family: 'Segoe UI', sans-serif;
+      color: #333;
+      text-align: center;
+      padding: 50px;
+    }
+
+    img {
+      width: 180px;
+      border-radius: 50%;
+      margin-top: 20px;
+    }
+
+    h1 {
+      margin-top: 20px;
+      font-size: 32px;
+    }
+
+    p {
+      max-width: 600px;
+      margin: auto;
+      margin-top: 10px;
+      font-size: 18px;
+      line-height: 1.6;
+    }
+
+    .redes {
+      margin-top: 30px;
+    }
+
+    .redes a {
+      margin: 0 15px;
+      text-decoration: none;
+      color: #0077cc;
+      font-size: 20px;
+    }
+
+    .redes a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <img src="tu-foto.jpg" alt="Viviana Belen">
+  <h1>Viviana Belen Sanz Caballero</h1>
+  <p>
+    ¡Hola! Soy Viviana, me encanta el aprendizaje continuo y hacer cosas por los demás. Aquí puedes conocer un poco más sobre mí y encontrarme en redes sociales.
+  </p>
+
+  <div class="redes">
+    <a href="https://instagram.com/tucuenta" target="_blank">Instagram</a>
+    <a href="https://linkedin.com/in/tucuenta" target="_blank">LinkedIn</a>
+    <a href="mailto:viviana@correo.com">Correo</a>
+  </div>
+</body>
+</html>
+
