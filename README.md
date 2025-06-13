@@ -48,7 +48,7 @@
     }
 
     a {
-      color: #30D5C8;
+      color: 40E0D0;
       text-decoration: none;
     }
 
