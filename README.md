@@ -21,7 +21,7 @@
 
     header h1 {
       margin: 0;
-      color: #800040;
+      color: #238909;
     }
 
     img {
