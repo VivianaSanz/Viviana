@@ -14,14 +14,14 @@
     }
 
     header {
-      background-color: #094E62;
+      background-color: #B2FFFF;
       padding: 20px;
       text-align: center;
     }
 
     header h1 {
       margin: 0;
-      color: #238909;
+      color: #0000FF;
     }
 
     img {
