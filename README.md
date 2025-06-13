@@ -14,7 +14,7 @@
     }
 
     header {
-      background-color: #ffb6c1;
+      background-color: #B2FFFF;
       padding: 20px;
       text-align: center;
     }
@@ -48,7 +48,7 @@
     }
 
     a {
-      color: #c2185b;
+      color: #30D5C8;
       text-decoration: none;
     }
 
@@ -129,7 +129,7 @@
     <h2>Redes Sociales</h2>
     <p>
       📷 Instagram: 
-      <a href="https://www.instagram.com/vivi_sanz_?igsh=NGpxM2ZuOTJ1eDNi&utm_source=qr" target="_blank">@emy_sanchezg</a><br/
+      <a href="https://www.instagram.com/vivi_sanz_?igsh=NGpxM2ZuOTJ1eDNi&utm_source=qr" target="_blank">@vivi_sanzg</a><br/
     </p>
   </div>
 
