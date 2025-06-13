@@ -69,7 +69,7 @@
     .footer {
       text-align: center;
       padding: 20px;
-      background-color: #B2FFFF;
+      background-color: #d29bfd;
       font-size: 14px;
       color: #555;
     }
