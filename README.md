@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html lang="es">
 <head>
   <meta charset="UTF-8" />
@@ -14,7 +14,7 @@
     }
 
     header {
-      background-color: #B2FFFF;
+      background-color: #238909;
       padding: 20px;
       text-align: center;
     }
@@ -79,7 +79,7 @@
 
   <header>
     <h1>Viviana Belen Sanz Caballero</h1>
-    <img src="https://i.imgur.com/1N7yBrN.jpg" alt="Foto de Emily" />
+
     <p>Estudiante de Administración de Negocios en la UCSP</p>
   </header>
 
