@@ -6,7 +6,7 @@
   <title>Viviana Sanz</title>
   <style>
     body {
-      background-color: #000080;
+      background-color: #B2FFFF;
       font-family: "Monospace", cursive, sans-serif;
       margin: 0;
       padding: 0;
