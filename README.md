@@ -1,24 +1,142 @@
-# Viviana Belen Sanz Caballero
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Viviana Sanz</title>
+  <style>
+    body {
+      background-color: #000080;
+      font-family: "Monospace", cursive, sans-serif;
+      margin: 0;
+      padding: 0;
+      color: #023047;
+    }
 
----
+    header {
+      background-color: #ffb6c1;
+      padding: 20px;
+      text-align: center;
+    }
 
-## Acerca de mi
+    header h1 {
+      margin: 0;
+      color: #800040;
+    }
 
-Hola, soy **Viviana Belen Sanz Caballero**, estudiante de <a href="https://ucsp.edu.pe/carreras/administracion-negocios/" target="_blank">Administración</a>
- apasionada por el desarrollo de software, la inteligencia artificial y la tecnología. Me considero una persona curiosa, autodidacta y con muchas ganas de aprender.
+    img {
+      width: 180px;
+      height: 180px;
+      border-radius: 50%;
+      border: 4px dashed #ff69b4;
+      margin-top: 15px;
+    }
 
----
+    section {
+      padding: 30px;
+      max-width: 800px;
+      margin: auto;
+    }
 
-## Trayectoria 
-Colegio Particular de los Sagrados Corazones(inicial-primaria-secundaria)
-<a href="https://ucsp.edu.pe/" target="_blank">Universidad Católica San Pablo</a>
+    h2 {
+      color: #40E0D0;
+    }
 
-## Aptitudes
-## Actualmente estoy cursando:
-## Compañeros
+    ul {
+      list-style: square;
+      padding-left: 20px;
+    }
 
-## Contacto
+    a {
+      color: #c2185b;
+      text-decoration: none;
+    }
 
-- **Correo:**<a href="mailto:viviana.sanz@ucsp.edu.pe">viviana.sanz@ucsp.edu.pe</a>
-- <a href="https://www.linkedin.com/in/ecuadrosv/" target="_blank">LinkedIn</a>
+    a:hover {
+      text-decoration: underline;
+    }
+
+    .redes {
+      text-align: center;
+      margin-top: 20px;
+    }
+
+    .redes a {
+      margin: 0 10px;
+      font-weight: bold;
+    }
+
+    .footer {
+      text-align: center;
+      padding: 20px;
+      background-color: #B2FFFF;
+      font-size: 14px;
+      color: #555;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Viviana Belen Sanz Caballero</h1>
+    <img src="https://i.imgur.com/1N7yBrN.jpg" alt="Foto de Emily" />
+    <p>Estudiante de Administración de Negocios en la UCSP</p>
+  </header>
+
+  <section id="sobre-mi">
+    <h2>Sobre mí</h2>
+    <p>
+      Hola, soy Viviana, actualmente estoy estudiando la carrera de 
+      <a href="https://ucsp.edu.pe/carreras/administracion-negocios/" target="_blank">
+        Administración de Negocios en la Universidad Católica San Pablo
+      </a>. 
+      Voy en mi segundo año de carrera y estoy cursando el 3er semestre.
+    </p>
+    <p>
+     Mis amigos son Emily Sánchez, Tomas Becerra, Gabriela Carvallo, entre otros.
+    </p>
+    <p>
+      Durante mi tiempo libre me gusta cocinar, salir con mis amigos y ver series.
+    </p>
+  </section>
+
+  <section id="cursos">
+    <h2>Cursos</h2>
+    <ul>
+      <li>Análisis Financiero</li>
+      <li>Cálculo en una Variable</li>
+      <li>Filosofía de la Naturaleza</li>
+      <li>Liderazgo</li>
+      <li>Historia Occidental</li>
+      <li>Pensamiento del Consumidor</li>
+      <li>Pensamiento Computacional a cargo del profesor 
+        <a href="https://www.linkedin.com/in/ecuadrosv/" target="_blank">Ernesto Cuadros</a>.
+      </li>
+    </ul>
+  </section>
+
+  <section id="contacto">
+    <h2>Contacto</h2>
+    <p>📧 Contactame a:</p>
+    <p>
+      <a href="mailto:viviana.sanz@ucsp.edu.pe">
+        viviana.sanz@ucsp.edu.pe
+      </a>
+    </p>
+  </section>
+
+  <div class="redes">
+    <h2>Redes Sociales</h2>
+    <p>
+      📷 Instagram: 
+      <a href="https://www.instagram.com/vivi_sanz_?igsh=NGpxM2ZuOTJ1eDNi&utm_source=qr" target="_blank">@emy_sanchezg</a><br/
+    </p>
+  </div>
+
+  <div class="footer">
+    Viviana Sanz Caballero | Junio 2025
+  </div>
+
+</body>
+</html>
 - 
