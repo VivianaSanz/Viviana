@@ -115,12 +115,28 @@
     </ul>
   </section>
 
+   <section id="musica">
+    <h2>Mi música favorita</h2>
+    <p>Esta canción me gusta mucho y quiero compartirla contigo:</p>
+    <iframe
+      width="560" height="315"
+      src="https://www.youtube.com/embed/mUNdVTukrcs?autoplay=1&loop=1&playlist=mUNdVTukrcs&rel=0&mute=1"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen>
+    </iframe>
+  </section>
+
   <section id="contacto">
     <h2>Contacto</h2>
     <p>📧 Contactame a:</p>
     <p>
       <a href="mailto:viviana.sanz@ucsp.edu.pe">
         viviana.sanz@ucsp.edu.pe
+      </a>
+    </p>
+  </section>
+
       </a>
     </p>
   </section>
@@ -140,12 +156,4 @@
 </body>
 </html>
 - 
-<section id="musica">
-  <h2>Mi música favorita</h2>
-  <iframe width="560" height="315"
-    src="https://www.youtube.com/embed/mUNdVTukrcs?autoplay=1&loop=1&playlist=mUNdVTukrcs&rel=0&mute=1"
-    frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    allowfullscreen>
-  </iframe>
-</section>
+
