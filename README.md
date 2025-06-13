@@ -119,7 +119,7 @@
   <h2>Mi música favorita</h2>
   <p>Esta canción me gusta mucho y quiero compartirla contigo:</p>
   <iframe
-    src="https://www.youtube.com/embed/Y61I6rnv5uQ?autoplay=1&loop=1&playlist=Y61I6rnv5uQ&rel=0&mute=1"
+    src="https://www.youtube.com/watch?v=bJJn1ECjTww&list=RDbJJn1ECjTww&start_radio=1"
     frameborder="0"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
     allowfullscreen>
