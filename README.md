@@ -1,63 +1,24 @@
-# vivianabelen.github.io
-<html lang="es">
-<head>
-  <meta charset="UTF-8">
-  <title>Viviana Belen</title>
-  <style>
-    body {
-      background-color: #f5f5f5;
-      font-family: 'Segoe UI', sans-serif;
-      color: #333;
-      text-align: center;
-      padding: 50px;
-    }
+# Viviana Belen Sanz Caballero
 
-    img {
-      width: 180px;
-      border-radius: 50%;
-      margin-top: 20px;
-    }
+---
 
-    h1 {
-      margin-top: 20px;
-      font-size: 32px;
-    }
+## Acerca de mi
 
-    p {
-      max-width: 600px;
-      margin: auto;
-      margin-top: 10px;
-      font-size: 18px;
-      line-height: 1.6;
-    }
+Hola, soy **Viviana Belen Sanz Caballero**, estudiante de <a href="https://ucsp.edu.pe/carreras/administracion-negocios/" target="_blank">Administración</a>
+ apasionada por el desarrollo de software, la inteligencia artificial y la tecnología. Me considero una persona curiosa, autodidacta y con muchas ganas de aprender.
 
-    .redes {
-      margin-top: 30px;
-    }
+---
 
-    .redes a {
-      margin: 0 15px;
-      text-decoration: none;
-      color: #0077cc;
-      font-size: 20px;
-    }
+## Trayectoria 
+Colegio Particular de los Sagrados Corazones(inicial-primaria-secundaria)
+<a href="https://ucsp.edu.pe/" target="_blank">Universidad Católica San Pablo</a>
 
-    .redes a:hover {
-      text-decoration: underline;
-    }
-  </style>
-</head>
-<body>
-  <img src="tu-foto.jpg" alt="Viviana Belen">
-  <h1>Viviana Belen Sanz Caballero</h1>
-  <p>
-    ¡Hola! Soy Viviana, me encanta el aprendizaje continuo y hacer cosas por los demás. Aquí puedes conocer un poco más sobre mí y encontrarme en redes sociales.
-  </p>
+## Aptitudes
+## Actualmente estoy cursando:
+## Compañeros
 
-  <div class="redes">
-    <a href="https://instagram.com/tucuenta" target="_blank">Instagram</a>
-    <a href="https://linkedin.com/in/tucuenta" target="_blank">LinkedIn</a>
-    <a href="mailto:viviana@correo.com">Correo</a>
-  </div>
-</body>
-</html>
+## Contacto
+
+- **Correo:**<a href="mailto:viviana.sanz@ucsp.edu.pe">viviana.sanz@ucsp.edu.pe</a>
+- <a href="https://www.linkedin.com/in/ecuadrosv/" target="_blank">LinkedIn</a>
+- 
