@@ -114,18 +114,6 @@
       </li>
     </ul>
   </section>
-
-<section id="musica">
-  <h2>Mi música favorita</h2>
-  <p>Esta canción me gusta mucho y quiero compartirla contigo:</p>
-  <iframe
-    src="https://www.youtube.com/watch?v=bJJn1ECjTww&list=RDbJJn1ECjTww&start_radio=1"
-    frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    allowfullscreen>
-  </iframe>
-</section>
-
   <section id="contacto">
     <h2>Contacto</h2>
     <p>📧 Contactame a:</p>
