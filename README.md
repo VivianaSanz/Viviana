@@ -109,7 +109,7 @@
       <li>Liderazgo</li>
       <li>Historia Occidental</li>
       <li>Pensamiento del Consumidor</li>
-      <li>Pensamiento Computacional a cargo del profesor 
+      <li>Pensamiento Computacional con el profesor 
         <a href="https://www.linkedin.com/in/ecuadrosv/" target="_blank">Ernesto Cuadros</a>.
       </li>
     </ul>
@@ -120,7 +120,7 @@
     <p>Esta canción me gusta mucho y quiero compartirla contigo:</p>
     <iframe
       width="560" height="315"
-      src="https://www.youtube.com/embed/mUNdVTukrcs?autoplay=1&loop=1&playlist=mUNdVTukrcs&rel=0&mute=1"
+      src="https://www.youtube.com/watch?v=bJJn1ECjTww&list=RDbJJn1ECjTww&start_radio=1"
       frameborder="0"
       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
       allowfullscreen>
