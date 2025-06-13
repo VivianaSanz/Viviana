@@ -115,17 +115,16 @@
     </ul>
   </section>
 
-   <section id="musica">
-    <h2>Mi música favorita</h2>
-    <p>Esta canción me gusta mucho y quiero compartirla contigo:</p>
-    <iframe
-      width="560" height="315"
-      src="https://www.youtube.com/watch?v=Y61I6rnv5uQ&list=RDY61I6rnv5uQ&start_radio=1"
-      frameborder="0"
-      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-      allowfullscreen>
-    </iframe>
-  </section>
+<section id="musica">
+  <h2>Mi música favorita</h2>
+  <p>Esta canción me gusta mucho y quiero compartirla contigo:</p>
+  <iframe
+    src="https://www.youtube.com/embed/Y61I6rnv5uQ?autoplay=1&loop=1&playlist=Y61I6rnv5uQ&rel=0&mute=1"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+</section>
 
   <section id="contacto">
     <h2>Contacto</h2>
