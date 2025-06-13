@@ -7,10 +7,10 @@
   <style>
     body {
       background-color: #B2FFFF;
-      font-family: "Monospace", cursive, sans-serif;
+      font-family: "Monospace", Comic Sans MS, sans-serif;
       margin: 0;
       padding: 0;
-      color: #023047;
+      color: ##FFFFFF;
     }
 
     header {
