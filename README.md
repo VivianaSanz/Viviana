@@ -97,8 +97,6 @@
     </p>
     <p>
       Durante mi tiempo libre me gusta cocinar, salir con mis amigos y ver series.
-    </p>
-  </section>
 
   <section id="cursos">
     <h2>Cursos</h2>
@@ -130,7 +128,7 @@
     <h2>Redes Sociales</h2>
     <p>
       📷 Instagram: 
-      <a href="https://www.instagram.com/vivi_sanz_?igsh=NGpxM2ZuOTJ1eDNi&utm_source=qr" target="_blank">@vivi_sanzg</a><br/
+      <a href="https://www.instagram.com/vivi_sanz_?igsh=NGpxM2ZuOTJ1eDNi&utm_source=qr" target="_blank">@vivi_sanz</a>
     </p>
   </div>
 
