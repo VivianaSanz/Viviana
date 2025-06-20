@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="es">
 <head>
   <meta charset="UTF-8" />
@@ -135,8 +134,5 @@
   <div class="footer">
     Viviana Sanz Caballero | Junio 2025
   </div>
-
-</body>
-</html>
 - 
 
