@@ -120,7 +120,12 @@
     <p>
       <a href="mailto:viviana.sanz@ucsp.edu.pe">
         viviana.sanz@ucsp.edu.pe
-         <a href="https://www.linkedin.com/in/viviana-sanz-caballero-470074358/">
+      <a href="https://www.linkedin.com/in/viviana-sanz-caballero-470074358/">
+        Linkedin
+      </a>
+    </p>
+         <p>
+      <a href="https://www.linkedin.com/in/viviana-sanz-caballero-470074358/">
         Linkedin
       </a>
     </p>
