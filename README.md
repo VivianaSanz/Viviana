@@ -92,11 +92,20 @@
       Voy en mi segundo año de carrera y estoy cursando el 3er semestre.
     </p>
     <p>
-     Mis amigos son Emily Sánchez, Tomas Becerra, Gabriela Carvallo, entre otros.
-    </p>
-    <p>
       Durante mi tiempo libre me gusta cocinar, salir con mis amigos y ver series.
-
+      <section id="companeros" class="tarjeta">
+    <h2>Compañeros</h2>
+    <p>Durante mi primer año he conocido a personas maravillosas, como:</p>
+    <ul>
+      <li>👩‍🎓 <a href="https://emilysanchez2102.github.io/emilysanchez/" target="_blank">Emily Nikole Sánchez Gonzales</a></li>
+      <li>👩‍🎓 <a href="https://gabrielacarvallo.github.io/Pagina-web-Gabriela-Carvallo/" target="_blank">Gabriela Carvallo</a></li>
+      <li>👨‍🎓 <a href="https://brunoch03.github.io/brunochiappe/" target="_blank">Bruno 
+ <li>👨‍🎓 <a href="https://santiago180307.github.io/pagina-web-Santiago-Bola-os/" target="_blank">Santiago Bolaños</a></li>
+      <li>👨‍🎓 <a href="https://tomaasbecerraa.github.io/Tom/" target="_blank">Tomas Becerra</a></li>
+      <li>👩‍🎓 <a href="https://kerensteves.github.io/Keren-page/" target="_blank">Keren Esteves</a></li>
+      <li>👩‍🎓 <a href="https://yoandria-martinez-pereda.github.io/Pagina-web-Yoandria-Martinez/" target="_blank">Yoandria Martinez</a></li>
+    </ul>
+  </section>
   <section id="cursos">
     <h2>Cursos</h2>
     <ul>
