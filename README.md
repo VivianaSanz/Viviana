@@ -120,8 +120,6 @@
     <p>LinkedIn: 
       <a href="https://www.linkedin.com/in/viviana-sanz-caballero-470074358/ ">Viviana Sanz</a>
     </p>
-    </p>
-  </section>
 
   <div class="redes">
     <h2>Redes Sociales</h2>
@@ -134,5 +132,4 @@
   <div class="footer">
     Viviana Sanz Caballero | Junio 2025
   </div>
-- 
 
