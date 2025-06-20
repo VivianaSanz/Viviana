@@ -99,13 +99,12 @@
     <ul>
       <li>👩‍🎓 <a href="https://emilysanchez2102.github.io/emilysanchez/" target="_blank">Emily Nikole Sánchez Gonzales</a></li>
       <li>👩‍🎓 <a href="https://gabrielacarvallo.github.io/Pagina-web-Gabriela-Carvallo/" target="_blank">Gabriela Carvallo</a></li>
-      <li>👨‍🎓 <a href="https://brunoch03.github.io/brunochiappe/" target="_blank">Bruno 
+      <li>👨‍🎓 <a href="https://brunoch03.github.io/brunochiappe/" target="_blank">Bruno Chiappe 
  <li>👨‍🎓 <a href="https://santiago180307.github.io/pagina-web-Santiago-Bola-os/" target="_blank">Santiago Bolaños</a></li>
       <li>👨‍🎓 <a href="https://tomaasbecerraa.github.io/Tom/" target="_blank">Tomas Becerra</a></li>
       <li>👩‍🎓 <a href="https://kerensteves.github.io/Keren-page/" target="_blank">Keren Esteves</a></li>
       <li>👩‍🎓 <a href="https://yoandria-martinez-pereda.github.io/Pagina-web-Yoandria-Martinez/" target="_blank">Yoandria Martinez</a></li>
-    </ul>
-  </section>
+
   <section id="cursos">
     <h2>Cursos</h2>
     <ul>
