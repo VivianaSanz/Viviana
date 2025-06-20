@@ -38,7 +38,7 @@
     }
 
     h2 {
-      color: 40E0D0;
+      color: d29bfd;
     }
 
     ul {
